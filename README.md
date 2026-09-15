@@ -1,2 +1,3 @@
-# SDEV2171-OE01-Workbook-Yining-Xiong-yxiong17
-SDEV2171 Assignment App | wkbk
+# workbook-template
+
+Use this repository to store all your coursework for SDEV2171. Keep this repo private, and only push up work that is completed in class or as directed by your instructor.
